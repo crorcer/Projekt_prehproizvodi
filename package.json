@@ -1,12 +1,5 @@
 {
-  "name": "projekt-webstranica_diskografija",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "dependencies": {
+    "@quasar/cli": "^2.4.1"
+  }
 }
