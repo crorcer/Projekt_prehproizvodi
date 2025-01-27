@@ -11,15 +11,16 @@
           v-ripple
           tag="router-link"
           :to="link.to"
-          class="text-white nav-item"
+          class="text-[#ffe600] nav-item"
+          style="color: #ffe600;"
         >
-          <q-icon :name="link.icon" class="text-white" />
+          <q-icon :name="link.icon" style="color:#007bff" />
           <q-item-section>{{ link.label }}</q-item-section>
         </q-item>
       </div>
     </div>
 
-    <q-page-container class="bg-white routes">
+    <q-page-container class="bg-yellow-10 routes">
       <router-view />
     </q-page-container>
   </q-layout>
@@ -54,7 +55,7 @@ const links = [
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-weight: 700;
-  color: #fff;
+  color: #ffe600;
 }
 
 .custom-background {
@@ -69,6 +70,7 @@ const links = [
   flex-direction: row;
   gap: 20px;
   flex-wrap: wrap;
+  color: #ffe600;
 
   @media screen and (max-width: 769px) {
     flex-direction: column;
@@ -83,6 +85,7 @@ const links = [
   gap: 8px;
   justify-items: center;
   align-items: center;
+  
 
   font-size: 16px;
   font-weight: 700;

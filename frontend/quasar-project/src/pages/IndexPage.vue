@@ -16,7 +16,7 @@
       </div>
       <div class="image">
         <img
-          src="https://www.tvornicazdravehrane.com/upload/catalog/product/54477/nutrigold-suseni-mango-200g-tvornica-zdrave-hrane-_636e51095c716.jpg"
+          src="/mango.png"
           alt="suseni mango"
           class="img"
         />
@@ -35,7 +35,7 @@
       </div>
       <div class="image">
         <img
-          src="https://rokmar.si/wp-content/uploads/2022/03/Rokmar-vedro-v3_aromat-marakuja.jpg"
+          src="/marakuja.png"
           alt="sladoled marakuja"
           class="img"
         />
