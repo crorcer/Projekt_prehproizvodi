@@ -1,19 +1,10 @@
 {
-  "name": "projekt-webstranica_diskografija",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
+    "@quasar/cli": "^2.4.1",
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
-    "express": "^4.21.2",
-    "myql": "^1.0.0",
+    "express": "^4.21.1",
     "mysql": "^2.18.1"
   }
 }
+
