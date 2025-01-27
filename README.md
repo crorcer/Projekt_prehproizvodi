@@ -1,1 +1,1 @@
-Ovo je repozitorij web stranice za prodaju diskografije
+Ovo je repozitorij web stranice za prodaju prehrambenih proizvoda

@@ -1,1 +1,22 @@
-// app global css in SCSS form
+body {
+    background-color: #000; 
+    color: #fff; 
+    font-family: 'Arial', sans-serif;
+  }
+  
+  a {
+    color: #ff0000; 
+  }
+  
+  button {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #cc0000;
+  }
