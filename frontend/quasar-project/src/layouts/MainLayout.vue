@@ -14,7 +14,7 @@
           class="text-[#ffe600] nav-item"
           style="color: #ffe600;"
         >
-          <q-icon :name="link.icon" style="color:#007bff" />
+          <q-icon :name="link.icon" style="color: indigo" />
           <q-item-section>{{ link.label }}</q-item-section>
         </q-item>
       </div>
@@ -55,11 +55,11 @@ const links = [
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-weight: 700;
-  color: #ffe600;
+  color: indigo;
 }
 
 .custom-background {
-  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+  background: indigo;
   min-height: 100vh;
   background-attachment: fixed;
   background-size: cover;

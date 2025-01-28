@@ -1,6 +1,6 @@
 <template>
   <div class="index-container">
-    <h1 class="title">Dobrodošli u Stockify!</h1>
+    <h1 class="title">Dobrodošli u Foodify!</h1>
     <div class="images">
       <div class="image">
         <img
@@ -66,7 +66,7 @@ export default {
 
 .title {
   font-size: 32px;
-  color: black;
+  color: indigo;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 500;
 }
@@ -109,7 +109,7 @@ export default {
 
 .description {
   font-size: 14px;
-  color: black;
+  color: indigo;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 700;
   margin-top: 10px;

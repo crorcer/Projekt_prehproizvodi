@@ -75,7 +75,7 @@ button:hover {
 
 .title {
   font-size: 32px;
-  color: black;
+  color: indigo;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 500;
   line-height: normal;
